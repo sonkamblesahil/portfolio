@@ -31,6 +31,12 @@ const projects = [
     tech: "HTML, CSS",
     desc: "Responsive music streaming interface mimicking Spotify with Flexbox and Grid layouts.",
     github: "https://github.com/sonkamblesahil"
+  },
+  {
+    title: "Portfolio Website",
+    tech: "React, Tailwind CSS",
+    desc: "Personal portfolio website showcasing my projects and skills.",
+    github: "https://github.com/sonkamblesahil"
   }
 ];
 
