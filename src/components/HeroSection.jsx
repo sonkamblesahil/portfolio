@@ -1,5 +1,5 @@
 import React from "react";
-
+import profilephoto from "../assets/profile-photo.jpg";
 const HeroSection = () => {
   return (
     <div className="min-h-screen flex items-center justify-center px-6  ">
@@ -40,7 +40,7 @@ const HeroSection = () => {
               <div className="w-72 h-72 md:w-80 md:h-80 lg:w-96 lg:h-96 rounded-full bg-gradient-to-r from-purple-800 to-blue-900 p-1 mx-auto">
                 <div className="w-full h-full rounded-full bg-gray-900 flex items-center justify-center overflow-hidden">
                   <img
-                    src="/src/assets/profile-photo.jpg"
+                    src={profilephoto}
                     alt="Sahil Sonkamble"
                     className="w-full h-full object-cover rounded-full"
                   />
