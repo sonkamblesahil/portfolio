@@ -32,7 +32,7 @@ const Technology = () => {
     emailjs
       .send(
         "service_9u5b3pd", // EmailJS service ID
-        "service_9u5b3pd", // EmailJS template ID
+        "template_0ls53fd", // EmailJS template ID
         formData,
         "BrHKnNH4rvXLanbPL"   // EmailJS public key
       )
@@ -104,7 +104,7 @@ const Technology = () => {
               ></textarea>
               <button
                 type="submit"
-                className="bg-purple-600 hover:bg-purple-700 text-white font-bold py-3 rounded-lg transition"
+                className="bg-purple-600 hover:bg-purple-700 text-white font-bold py-3 rounded-lg transition hover:cursor-pointer"
               >
                 Send Message
               </button>

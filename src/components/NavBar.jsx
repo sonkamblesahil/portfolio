@@ -76,7 +76,7 @@ const NavBar = () => {
     <div className='h-[10vh] flex items-center justify-between px-6 text-white relative backdrop-blur-xl'>
       <div className="logo">
         <Link to="/" className="text-2xl text-white font-bold hover:text-purple-400 transition-colors">
-          सा
+          Sahil
         </Link>
       </div>
       

@@ -36,7 +36,7 @@ const projects = [
 
 const ProjectsPage = () => {
   return (
-    <div className="min-h-screen bg-gradient-to-br from-zinc-900 via-purple-900 to-zinc-900 p-8 text-white">
+    <div className=" bg-gradient-to-br from-zinc-900 via-purple-900 to-zinc-900 p-8 text-white">
       <h1 className="text-4xl font-extrabold text-center mb-12">My Projects</h1>
       <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-8">
         {projects.map((p, i) => (

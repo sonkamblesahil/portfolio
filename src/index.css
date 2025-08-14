@@ -11,7 +11,25 @@ html, body {
   width: 100%;
   height: 100%;
   overflow-x: hidden;
+  scrollbar-width: thin;
+  scrollbar-color: #a78bfa #1e293b;
 }
+
+/* Custom Scrollbar for Chrome, Edge, Safari */
+body::-webkit-scrollbar {
+  width: 8px;
+}
+body::-webkit-scrollbar-track {
+  background: #1e293b;
+}
+body::-webkit-scrollbar-thumb {
+  background: linear-gradient(135deg, #a78bfa, #581c87);
+  border-radius: 8px;
+}
+body::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(135deg, #c4b5fd, #a78bfa);
+}
+
 
 #root {
   width: 100%;
