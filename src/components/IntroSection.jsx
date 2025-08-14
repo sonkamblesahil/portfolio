@@ -71,7 +71,7 @@ const IntroSection = () => {
                 <div className="w-full h-full rounded-full bg-gray-900 flex items-center justify-center overflow-hidden">
                   {/* Actual Photo */}
                   <img
-                    src="./src/assets/profile-photo.jpg" // Place your image in public folder and update the path
+                    src="../src/assets/profile-photo.jpg" // Place your image in public folder and update the path
                     alt="Sahil Sonkamble"
                     className="w-full h-full object-cover rounded-full"
                   />
