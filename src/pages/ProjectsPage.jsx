@@ -2,12 +2,19 @@ import React from "react";
 import { FaGithub } from "react-icons/fa";
 
 const projects = [
-  {
-    title: "CodeVault",
-    tech: "MongoDB, Express.js, React.js",
-    desc: "Built a website for users to save and organize code, with sorting, notes, and full CRUD operations.",
+   {
+    title: "Portfolio Website",
+    tech: "React, Tailwind CSS",
+    desc: "Personal portfolio website showcasing my projects and skills.",
     github: "https://github.com/sonkamblesahil"
   },
+  {
+    title: "NotesApp",
+    tech: "MERN",
+    desc: "A note-taking app built with MongoDB, Express.js, React.js, and Node.js.",
+    github: "https://github.com/sonkamblesahil"
+  },
+
   {
     title: "Online Clipboard",
     tech: "JavaScript, Node.js, Express",
@@ -32,12 +39,7 @@ const projects = [
     desc: "Responsive music streaming interface mimicking Spotify with Flexbox and Grid layouts.",
     github: "https://github.com/sonkamblesahil"
   },
-  {
-    title: "Portfolio Website",
-    tech: "React, Tailwind CSS",
-    desc: "Personal portfolio website showcasing my projects and skills.",
-    github: "https://github.com/sonkamblesahil"
-  }
+ 
 ];
 
 const ProjectsPage = () => {
