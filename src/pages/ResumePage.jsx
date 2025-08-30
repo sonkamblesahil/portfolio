@@ -54,25 +54,34 @@ const ResumePage = () => {
           <div className="mb-8">
             <h2 className="text-2xl font-semibold mb-4 border-b-2 border-purple-500 pb-2">Key Projects</h2>
             <div className="space-y-4">
+              
               <div>
-                <h3 className="text-lg font-medium text-purple-600">CodeVault</h3>
-                <p className="text-gray-700">Website for saving and organizing code snippets with CRUD functionality using React.js and MongoDB.</p>
+                <h3 className="text-lg font-medium text-purple-600">Portfolio Website</h3>
+                <p className="text-gray-700">Personal portfolio website built with React and Tailwind CSS. Showcases my projects, skills, and achievements in a modern, responsive layout. Features smooth navigation and interactive sections for a professional online presence.</p>
+              </div>
+              <div>
+                <h3 className="text-lg font-medium text-purple-600">Story Hub</h3>
+                <p className="text-gray-700">A MERN stack platform for users to create, share, and read stories. Includes user authentication, story management, and a clean UI for engaging content. Designed RESTful APIs and implemented secure data handling.</p>
+              </div>
+              <div>
+                <h3 className="text-lg font-medium text-purple-600">NotesApp</h3>
+                <p className="text-gray-700">A note-taking app using MongoDB, Express.js, React.js, and Node.js. Allows users to create, edit, and delete notes with persistent storage. Features a user-friendly interface and real-time updates for efficient productivity.</p>
               </div>
               <div>
                 <h3 className="text-lg font-medium text-purple-600">Online Clipboard</h3>
-                <p className="text-gray-700">Clipboard sharing app with unique links, secret keys, and QR codes using Node.js & Express.</p>
+                <p className="text-gray-700">Web app to share and access text snippets across devices using unique links, secret keys, and QR codes. Built with JavaScript, Node.js, and Express for fast and secure sharing. Implemented instant updates and cross-platform compatibility.</p>
               </div>
               <div>
                 <h3 className="text-lg font-medium text-purple-600">Parking Booking System</h3>
-                <p className="text-gray-700">CLI-based booking system for parking slots using Python and SQLite3.</p>
+                <p className="text-gray-700">Command-line parking system developed in Python with SQLite3 for booking, reserving, and cancelling slots. Tracks booking history and provides admin controls for slot management. Ensures robust operations with input validation and efficient database design.</p>
               </div>
               <div>
                 <h3 className="text-lg font-medium text-purple-600">Weather Website</h3>
-                <p className="text-gray-700">Real-time weather updates using OpenWeather API.</p>
+                <p className="text-gray-700">Real-time weather updates for any city using HTML, CSS, JavaScript, and OpenWeatherMap API. Displays current conditions and forecasts with a clean, responsive UI. Integrated error handling and location-based search for enhanced usability.</p>
               </div>
               <div>
                 <h3 className="text-lg font-medium text-purple-600">Spotify Clone</h3>
-                <p className="text-gray-700">Responsive Spotify UI clone using HTML & CSS with Flexbox and Grid.</p>
+                <p className="text-gray-700">Responsive music streaming interface mimicking Spotify, built with HTML and CSS. Utilizes Flexbox and Grid layouts for pixel-perfect design and interactive elements. Demonstrates strong front-end skills and attention to detail.</p>
               </div>
             </div>
           </div>

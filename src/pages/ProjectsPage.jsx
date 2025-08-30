@@ -9,6 +9,12 @@ const projects = [
     github: "https://github.com/sonkamblesahil"
   },
   {
+    title: "Story Hub",
+    tech: "MERN",
+    desc: "A platform for users to create and share stories.",
+    github: "https://github.com/sonkamblesahil"
+  },
+  {
     title: "NotesApp",
     tech: "MERN",
     desc: "A note-taking app built with MongoDB, Express.js, React.js, and Node.js.",
