@@ -63,6 +63,10 @@ const ResumePage = () => {
                 <h3 className="text-lg font-medium text-purple-600">Story Hub</h3>
                 <p className="text-gray-700">A MERN stack platform for users to create, share, and read stories. Includes user authentication, story management, and a clean UI for engaging content. Designed RESTful APIs and implemented secure data handling.</p>
               </div>
+               <div>
+                <h3 className="text-lg font-medium text-purple-600">ChatApp</h3>
+                <p className="text-gray-700">A real-time chat application using MongoDB, Express.js, React.js, and Node.js. Allows users to send and receive messages instantly with a user-friendly interface. Features include group chats, direct messaging, and message notifications.</p>
+              </div>
               <div>
                 <h3 className="text-lg font-medium text-purple-600">NotesApp</h3>
                 <p className="text-gray-700">A note-taking app using MongoDB, Express.js, React.js, and Node.js. Allows users to create, edit, and delete notes with persistent storage. Features a user-friendly interface and real-time updates for efficient productivity.</p>
