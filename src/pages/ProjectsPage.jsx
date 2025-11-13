@@ -15,6 +15,15 @@ const projects = [
     github: "https://github.com/sonkamblesahil",
   },
   {
+   
+  title: "Hospital Management System",
+  tech: "Java, JDBC, Swing",
+  desc: "A desktop-based application designed to manage hospital operations efficiently. It allows administrators to handle patient records, doctor scheduling, billing, and staff management through a user-friendly interface built with Java Swing. Data is securely stored and managed using JDBC for database connectivity.",
+  github: "https://github.com/sonkamblesahil"
+
+
+  },
+  {
     title: "Chat App",
     tech: "MERN",
     desc: "A real-time chat application using WebSockets for instant communication. Supports private chats, group messaging, typing indicators, and online/offline status tracking.",
