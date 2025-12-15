@@ -28,7 +28,7 @@ const HeroSection = () => {
             </div>
 
             <div className="space-y-4 text-lg md:text-xl font-bold text-gray-300">
-              <p>Full Stack Developer</p>
+              <p>Aspiring Software Engineer</p>
              
 
             </div>

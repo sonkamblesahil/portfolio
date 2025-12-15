@@ -27,9 +27,11 @@ const IntroSection = () => {
                   </span>{" "}
                   using{" "}
                   <span className="text-purple-400 font-semibold">React.js</span>,{" "}
-                  <span className="text-purple-400 font-semibold">Node.js</span>,{" "}
-                  and{" "}
+                  <span className="text-purple-400 font-semibold">Node.js</span>,{" "},
+            
                   <span className="text-purple-400 font-semibold">Express.js</span>.
+                  and{" "}
+                  <span className="text-purple-400 font-semibold">Spring Boot</span>.
                 </li>
                 <li>
                   Proficient in{" "}
@@ -41,18 +43,9 @@ const IntroSection = () => {
                   and databases like{" "}
                   <span className="text-purple-400 font-semibold">MongoDB</span>,{" "}
                   <span className="text-purple-400 font-semibold">MySQL</span>, and{" "}
-                  <span className="text-purple-400 font-semibold">SQLite3</span>.
+                  <span className="text-purple-400 font-semibold">PostgreSql</span>.
                 </li>
-                <li>
-                  Hands-on experience with{" "}
-                  <span className="text-purple-400 font-semibold">
-                    REST APIs
-                  </span>{" "}
-                  and{" "}
-                  <span className="text-purple-400 font-semibold">
-                    modern frontend libraries
-                  </span>.
-                </li>
+                
                 <li>
                   Actively solving{" "}
                   <span className="text-purple-400 font-semibold">DSA</span> problems on{" "}
